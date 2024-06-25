@@ -6,11 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "ffmpeg-installer.sh"
+    "lint": "next lint"
   },
   "dependencies": {
-    "ffmpeg-installer": "^1.0.2",
     "next": "^14",
     "yt-converter": "^2.1.1"
   },
